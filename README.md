@@ -1,7 +1,7 @@
 # ethio-tour
 
 # Description 
-This repo contains a website developed for tour agencies. The back-end is a rest API built using nodejs express and mongodb the front end is rendered using pug template engine
+This repo contains a website developed for tour agencies based on a tutorial. The back-end is a rest API built using nodejs express and mongodb the front end is rendered using pug template engine
 
 ## Used technologies
 1. mongodb atlas database
